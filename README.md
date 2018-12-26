@@ -1,4 +1,4 @@
-**Custom Database Driver For Laravel**
+## **Custom Database Driver For Laravel**
 
 Simplified the notification type of Laravel Database Notifications.
 
