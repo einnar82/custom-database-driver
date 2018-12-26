@@ -1,0 +1,21 @@
+{
+    "name": "einnar82/custom-database-driver",
+    "description": "Removed the namespace in database notification types in Laravel.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rannie Ollit",
+            "email": "einnar82@gmail.com"
+        }
+    ],
+    "homepage": "https://github.com/einnar82/custom-database-driver",
+    "keywords": ["Laravel", "notifications", "notification-channel"],
+    "require": {
+        "illuminate/support": "~5"
+    },
+    "autoload": {
+        "psr-4": {
+            "RannieOllit\\CustomDatabaseDriver\\": "src/"
+        }
+    }
+}
